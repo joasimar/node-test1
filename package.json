@@ -1,0 +1,16 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "multiplicacion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier joasimar palos flores",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {}
+}
